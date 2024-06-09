@@ -26,7 +26,7 @@ Once you have set up the project, you can run the application locally by followi
 1. Start the Development Server:
     
    ```shell
-   npm install
+   npm start
    ```
 2. Open the Application:
 Once the development server has started, open your web browser and navigate to http://localhost:3000 to view the application.
