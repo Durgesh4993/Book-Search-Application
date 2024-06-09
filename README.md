@@ -47,5 +47,5 @@ Once the development server has started, open your web browser and navigate to h
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/Durgesh4993/Book-Search-Application/blob/main/LICENSE) - see the LICENSE file for details.
 
